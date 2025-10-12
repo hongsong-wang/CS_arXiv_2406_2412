@@ -1,4 +1,4 @@
-# arXiv Papers in Computer Science (June 2024 – December 2024)
+# arXiv Papers in Computer Science that Have Released Code (June 2024 – December 2024)
 
 To help students and researchers quickly locate relevant papers based on keywords, I compiled abstracts from arXiv papers in computer science and created a webpage. The collection includes papers that have publicly released their code on arXiv during June 2024 – December 2024.
 
